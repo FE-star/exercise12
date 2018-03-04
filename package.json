@@ -1,0 +1,28 @@
+{
+  "name": "exercise12",
+  "version": "1.0.0",
+  "description": "> 通过测试",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaffarL/exercise12.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaffarL/exercise12/issues"
+  },
+  "homepage": "https://github.com/JaffarL/exercise12#readme",
+  "dependencies": {
+    "webpack": "^4.0.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.10"
+  }
+}
