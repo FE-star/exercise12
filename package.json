@@ -1,0 +1,22 @@
+{
+  "name": "exercise12",
+  "version": "1.0.0",
+  "description": "> 通过测试",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxfstart521/exercise12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dxfstart521/exercise12/issues"
+  },
+  "homepage": "https://github.com/dxfstart521/exercise12#readme"
+}
