@@ -12,6 +12,9 @@ module.exports = {
         test: /\.js/,
         use: [
           'define-loader'
+        ],
+        include: [
+          path.resolve(__dirname, "src/")
         ]
       }
     ]

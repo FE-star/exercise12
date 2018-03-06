@@ -1,2 +1,3 @@
 dist
-loader/define-loader.js
+node_modules
+package-lock.json

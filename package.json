@@ -1,0 +1,26 @@
+{
+  "name": "exercise12",
+  "version": "1.0.0",
+  "description": "> 通过测试",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suozhao/exercise12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suozhao/exercise12/issues"
+  },
+  "homepage": "https://github.com/suozhao/exercise12#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
