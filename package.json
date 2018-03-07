@@ -19,9 +19,7 @@
     "url": "https://github.com/JaffarL/exercise12/issues"
   },
   "homepage": "https://github.com/JaffarL/exercise12#readme",
-  "dependencies": {
-    "webpack": "^4.0.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "webpack-cli": "^2.0.10"
   }

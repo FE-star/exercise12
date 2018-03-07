@@ -1,7 +1,6 @@
 const assert = require('assert')
 let mod = null
 global.define = function (fn) {
-	console.log('at the beginning')
   const module = { exports: {} }
   fn(module, module.exports)
   mod = module
