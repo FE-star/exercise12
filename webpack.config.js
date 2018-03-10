@@ -10,16 +10,11 @@ module.exports = {
     rules: [
       {
         test: /\.js/,
-        use: [
-          // 'define-loader'
-          {
-            loader: path.resolve(__dirname, "src/loader.js"),
-          }
-        ]
+        use: 'define-loader'
       }
     ]
   },
   resolveLoader: {
-    modules: ["node_modules", path.resolve(__dirname, "src/loader")]
+    modules: ["node_modules", path.resolve(__dirname, "loader")]
   }
 };
